@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Paul Grotesk';
+    src: url('paulgrotesk-bold-trail-webfont.woff2') format('woff2'),
+         url('paulgrotesk-bold-trail-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Paul Grotesk';
+    src: url('paulgrotesk-regular-trail-webfont.woff2') format('woff2'),
+         url('paulgrotesk-regular-trail-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Paul Grotesk';
+    src: url('paulgrotesk-thin-trail-webfont.woff2') format('woff2'),
+         url('paulgrotesk-thin-trail-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
