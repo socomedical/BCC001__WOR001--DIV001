@@ -1,12 +1,12 @@
 @import 'assets/branding/font/stylesheet.css';
 
 body {
-	font-family:'Paul Grotesk', sans-serif !important;
+	font-family:'Proxima Nova', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Paul Grotesk', sans-serif !important;
+    font-family: 'Proxima Nova', sans-serif !important;
 }
 #et-top-navigation {
-	font-family:'Paul Grotesk', sans-serif !important;
+	font-family:'Proxima Nova', sans-serif !important;
 }
