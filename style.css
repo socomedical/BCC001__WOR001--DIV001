@@ -218,3 +218,26 @@ input.medium {
 	max-width:1000px;
 	width:100% !important;
 }
+small {
+	font-size:12px !important;
+}
+#gform_fields_2, #field_2_1 {
+	list-style:none !important;
+	list-style-type:none !important;
+}
+#gform_widget-4 {
+	opacity:1;
+}
+footer input[type="submit"] {
+	background:rgba(255,255,255,0.3);
+}
+footer input[type="text"] {
+	background:rgba(255,255,255,0.1) !important;
+	border:1px solid rgba(255,255,255,0.2)
+}
+.footer-widget {
+	width:47%;
+	min-width:47%;
+	margin-right:5.5%;
+	padding:0 !important; margin:0 !important;
+}
