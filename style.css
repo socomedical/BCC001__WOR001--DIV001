@@ -145,6 +145,9 @@ h3.gform_title {
 #gform_fields_2 .gfield_required, #gform_fields_2 .gfield_label{
 	display:none !important;
 }
+.gfield_label {
+	display:none !important;
+}
 .page-id-59 .et_section_specialty a {
 	font-size:16px !important;
 	border:0px solid !important;
@@ -156,6 +159,10 @@ margin-bottom:0px !important
 }
 .page-id-59 .et_section_specialty a:hover {
 	background:#bf7f0e
+}
+.et_pb_slide_content {
+	text-align:left !important;
+	text-shadow:none !important;
 }
 
 .sldr_title {
