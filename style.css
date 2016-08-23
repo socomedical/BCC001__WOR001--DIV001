@@ -209,6 +209,9 @@ margin-bottom:0px !important
 .testimonial_bywrap {
 	text-align:center;
 }
+.et_pb_slide_content {
+	text-align:left !important;
+}
 input, textarea {
 	border-radius:12px;
 	width:100%;
