@@ -1,13 +1,13 @@
 @import 'assets/branding/font/stylesheet.css';
 
 body {
-	font-family:'Proxima Nova', sans-serif !important;
+	font-family:'Mesmerize', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Proxima Nova', sans-serif !important;
+    font-family: 'Mesmerize', sans-serif !important;
     font-weight: 400 !important;
 }
 #et-top-navigation {
-	font-family:'Proxima Nova', sans-serif !important;
+	font-family:'Mesmerize', sans-serif !important;
 }
