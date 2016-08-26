@@ -1,3 +1,17 @@
 #footer-bottom {
 	display:none;
 }
+
+div#page-container:before {
+    display: block;
+    position: fixed;
+    z-index: 100000000;
+    background: black;
+    width: 100vw;
+    height: 15vh;
+    bottom: 0;
+    right: 0;
+    background-image:url(../../assets/images/fg--footer.svg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
