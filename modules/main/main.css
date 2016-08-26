@@ -1,5 +1,6 @@
 #main-content {
     background-color: #49996a !important;
+    padding-bottom:15vh !important;
 }
 
 body:not(.home) #main-content {
@@ -7,5 +8,6 @@ body:not(.home) #main-content {
 	background-size:cover;
 	background-position:bottom center;
 	background-repeat:no-repeat;
-	background-attachment:fixed;
+	background-attachment:scroll;
+
 }
