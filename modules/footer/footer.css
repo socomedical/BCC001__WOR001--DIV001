@@ -3,15 +3,20 @@
 }
 
 div#page-container:before {
-    display: block;
+	display: block;
     position: fixed;
     z-index: 100000000;
-    background: black;
     width: 100vw;
     height: 15vh;
     bottom: 0;
-    right: 0;
-    background-image:url(../../assets/images/fg--footer.svg);
-    background-repeat:no-repeat;
-    background-size:cover;
+    left: 0;
+    background-image: url(../../assets/images/fg--footer__interior.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: '';
 }
+
+.home div#page-container:before {
+    background-image: url(../../assets/images/fg--footer__home.svg);
+}
+
