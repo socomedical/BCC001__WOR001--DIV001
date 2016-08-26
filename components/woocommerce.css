@@ -474,6 +474,18 @@ p.demo_store a {
     display: block;
     margin: 0 0 1em;
     box-shadow: none
+
+    margin: 0 0 9px !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 100000px;
+    border: 6px solid #ffe95f;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#299a0b+0,d8f6ff+100&0+0,1+100 */
+background: -moz-radial-gradient(center, ellipse cover, rgba(41,154,11,0) 0%, rgba(216,246,255,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(41,154,11,0) 0%,rgba(216,246,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(41,154,11,0) 0%,rgba(216,246,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00299a0b', endColorstr='#d8f6ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
 .woocommerce ul.products li.product strong {

@@ -1073,7 +1073,7 @@ body.et-pb-preview #main-content .container table {
 body.et-pb-preview #main-content .container tr th,
 body.et-pb-preview #main-content .container thead th {
 	padding: 9px 24px;
-	color: #555;
+	color: rgba(255,255,255,0.9);
 	font-weight: bold;
 }
 
@@ -2304,12 +2304,12 @@ table.cart td.actions .checkout-button {
 .woocommerce-page div.product .woocommerce-tabs ul.tabs:before,
 .woocommerce #content div.product .woocommerce-tabs ul.tabs:before,
 .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before {
-	border-bottom-color: #d9d9d9;
+	border-bottom-color: #478c63;
 }
 
 body.woocommerce .woocommerce-tabs {
 	margin-bottom: 45px;
-	border: 1px solid #d9d9d9;
+	border:1px solid #478c63;
 }
 
 body.woocommerce div.product .woocommerce-tabs ul.tabs,
@@ -2326,7 +2326,7 @@ body.woocommerce #content-area div.product .woocommerce-tabs ul.tabs li.active {
 	margin: 0 -2px;
 	padding: 0;
 	border: none;
-	border-right: 1px solid #d9d9d9;
+	border-right: 1px solid #478c63;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
@@ -10907,10 +10907,10 @@ span.comment_date {
 #commentform input[type="email"],
 #commentform input[type="url"] {
 	padding: 12px;
-	border: none;
-	color: #999;
-	background-color: #eee;
-	font-size: 18px;
+    border: none;
+    color: #ffffff;
+    background-color: #3a7b55;
+    font-size: 18px;
 }
 
 .form-submit {
