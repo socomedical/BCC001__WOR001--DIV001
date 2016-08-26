@@ -1,3 +1,10 @@
 #main-content {
     background-color: #49996a !important;
 }
+
+body:not(.home) #main-content {
+	background-image:url(../../assets/images/bg--innerPage.jpg);
+	background-size:cover;
+	background-position:bottom center;
+	background-repeat:no-repeat;
+}
